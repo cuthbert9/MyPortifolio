@@ -386,6 +386,8 @@ nav .fas {
     font-size: 30px;
   }
 
+ 
+
   nav .fas {
     display: block;
     font-size: 25px;
@@ -436,4 +438,10 @@ nav .fas {
   .copyright {
     font-size: 14px;
   }
+}
+
+.workImage{
+  width:auto ;
+  height: 200px;
+
 }
